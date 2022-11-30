@@ -1,0 +1,1 @@
+Prints different commands
